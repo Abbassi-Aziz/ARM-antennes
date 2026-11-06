@@ -1,0 +1,35 @@
+/ FFNN_training.py
+/ circular antenna array.py
+/AR_loss_curves.png
+/AR_model.pt
+/AR_test_array_configuration.png
+/AR_test_azimuth.png
+/AR_test_metrics.mat
+/AR_test_metrics.npy
+/AR_test_polar.png
+/AR_test_predictions_greedy.mat
+/AR_test_predictions_greedy.npy
+/AR_test_predictions_gv.mat
+/AR_test_predictions_gv.npy
+/AR_test_summary.txt
+/AR_training_history.mat
+/AR_training_history.npy
+/Minput.mat
+/Minput.npy
+/Minput_test.mat
+/Minput_test.npy
+/Minput_training.mat
+/Minput_training.npy
+/Moutput.mat
+/Moutput.npy
+/Moutput_test.mat
+/Moutput_test.npy
+/Moutput_training.mat
+/Moutput_training.npy
+/dataset.py
+/repartition_training_test.py
+/test_indices.mat
+/test_indices.npy
+/test_model_FFNN.py
+/train_indices.mat
+/train_indices.npy
